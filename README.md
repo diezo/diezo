@@ -4,4 +4,4 @@
 - 📧 Email: **sonniiii@outlook.com**
 - 🍿 Open to new opportunities
 
-**Total Downloads:** 35k
+**Total Downloads:** 40,000+
