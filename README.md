@@ -1,7 +1,7 @@
 ### Hi, there! 👋
 
 - 🧑‍💻 Developing [**@Ensta**](https://github.com/diezo/ensta) & [**@ProGPT**](https://github.com/diezo/progpt)
-- 📧 Email: **sonniiii@outlook.com**
+- 📧 Email: **deepaksonii@outlook.in**
 - 🍿 Open to new opportunities
 
 **Total Downloads:** 50,000+
