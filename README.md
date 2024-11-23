@@ -4,4 +4,4 @@
 - 📧 Email: **deepaksonii@outlook.in**
 - 🍿 Open to new opportunities
 
-**Total Downloads:** 70,000+
+**Total Downloads:** 90,000+
