@@ -1,7 +1,7 @@
-### Hi, there! 👋
+### Hey, there! 👋
+I'm an open-source maintainer, freelancer, and cloud enthusiast. I’m usually tinkering with backend tech and geeking out over how the internet works — yes, Computer Networks are my thing.
 
-- 🧑‍💻 Developing [**@Ensta**](https://github.com/diezo/ensta) & [**@ProGPT**](https://github.com/diezo/progpt)
-- 📧 Email: **deepaksonii@outlook.in**
-- 🍿 Open to new opportunities
+- 📬 Reach me: deepaksonii@outlook.in
+- 📦 Check out my PyPI developer page: [**@sonii**](https://pypi.org/user/sonii)
 
-**Total Downloads:** 100,000+
+**PyPI Downloads: 120,000+**
