@@ -7,7 +7,7 @@ I'm an open-source maintainer, freelancer, and cloud enthusiast. I’m usually t
 - 📬 Reach me: **deepaksonii@outlook.in**
 - 📦 Check out my PyPI developer page: [**@sonii**](https://pypi.org/user/sonii)
 
-**PyPI Downloads: 160,000+**
+**PyPI Downloads: 180,000+**
 
 
 <a href="https://www.linkedin.com/in/deepaksonii/" target="_blank">
